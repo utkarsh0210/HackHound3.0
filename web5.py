@@ -88,7 +88,9 @@ def mentor_page(domain):
         "Data Science": [
             {"name": "Utkarsh Gupta", "linkedin": "https://www.linkedin.com/in/utkarsh-gupta-650605253/"},
             {"name": "Rushil Sharma", "linkedin": "https://www.linkedin.com/in/rushil-sharma-803299303/"},
-            {"name": "Shivansh Mahajan", "linkedin": "https://www.linkedin.com/in/shivansh1976"}
+            {"name": "Shivansh Mahajan", "linkedin": "https://www.linkedin.com/in/shivansh1976"},
+            {"name": "Shivam Singh", "linkedin": "https://www.linkedin.com/in/shivam-singh-94835224a"},
+            {"name": "Vansh Verma", "linkedin": "https://www.linkedin.com/in/vansh-verma-b48290293 "},
         ],
         "Web Development": [
             {"name": "Karan Yadav", "linkedin": "https://www.linkedin.com/in/karan-yadav-46228527b"},
